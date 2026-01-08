@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotnetGames\\MCPTest\\LyoMirWorldLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|f:\\dotnetgames\\mcptest\\lyomirworldlauncher\\launcher.configurator\\launcher.configurator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|solutionrelative:launcher.configurator\\launcher.configurator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|LyoMirWorldLauncher.csproj|f:\\dotnetgames\\mcptest\\lyomirworldlauncher\\lyomirworldlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|LyoMirWorldLauncher.csproj|solutionrelative:lyomirworldlauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.Configurator",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\LyoMirWorldLauncher\\Launcher.Configurator\\Launcher.Configurator.csproj",
+              "RelativeDocumentMoniker": "Launcher.Configurator\\Launcher.Configurator.csproj",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\LyoMirWorldLauncher\\Launcher.Configurator\\Launcher.Configurator.csproj",
+              "RelativeToolTip": "Launcher.Configurator\\Launcher.Configurator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T10:06:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LyoMirWorldLauncher",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\LyoMirWorldLauncher\\LyoMirWorldLauncher.csproj",
+              "RelativeDocumentMoniker": "LyoMirWorldLauncher.csproj",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\LyoMirWorldLauncher\\LyoMirWorldLauncher.csproj",
+              "RelativeToolTip": "LyoMirWorldLauncher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T10:05:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

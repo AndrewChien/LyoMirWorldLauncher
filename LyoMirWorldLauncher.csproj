@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<ProjectReference Include="Launcher.Core\Launcher.Core.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="Launcher.Configurator\**" />
+		<Compile Remove="Launcher.Core.Tests\**" />
+		<Compile Remove="Launcher.Core\**" />
+		<EmbeddedResource Remove="Launcher.Configurator\**" />
+		<EmbeddedResource Remove="Launcher.Core.Tests\**" />
+		<EmbeddedResource Remove="Launcher.Core\**" />
+		<None Remove="Launcher.Configurator\**" />
+		<None Remove="Launcher.Core.Tests\**" />
+		<None Remove="Launcher.Core\**" />
+	</ItemGroup>
+
+	<Choose>
+		<When Condition="$(Configuration)=='Release'">
+			<PropertyGroup>
+				<DebugSymbols>false</DebugSymbols>
+				<Optimize>true</Optimize>
+				<DefineConstants>TRACE</DefineConstants>
+			</PropertyGroup>
+		</When>
+		<When Condition="$(Configuration)=='Debug'">
+			<Choose>
+				<When Condition="$([MSBuild]::IsOSPlatform('Windows'))">
+					<PropertyGroup>
+						<OutputPath>.\Build\Launcher</OutputPath>
+					</PropertyGroup>
+				</When>
+				<When Condition="$([MSBuild]::IsOSPlatform('OSX'))">
+					<PropertyGroup>
+						<OutputPath>/Volumes/Data/Launcher</OutputPath>
+					</PropertyGroup>
+				</When>
+				<When Condition="$([MSBuild]::IsOSPlatform('Linux'))">
+					<PropertyGroup>
+						<OutputPath>/Volumes/opt/Launcher</OutputPath>
+					</PropertyGroup>
+				</When>
+			</Choose>
+		</When>
+	</Choose>
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+	</PropertyGroup>
+
+</Project>

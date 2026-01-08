@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\MirWorld\\Launcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|d:\\project\\mirworld\\launcher\\launcher.configurator\\launcher.configurator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|solutionrelative:launcher.configurator\\launcher.configurator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|d:\\project\\mirworld\\launcher\\launcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:launcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|d:\\project\\mirworld\\launcher\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|d:\\project\\mirworld\\launcher\\launcher.configurator\\frmconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAB0B3C-1B7D-49E7-98D4-3CF562A48D27}|Launcher.Configurator\\Launcher.Configurator.csproj|solutionrelative:launcher.configurator\\frmconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D3E2BA-F2E1-4325-9747-2E86493571CA}|Launcher.Core\\Launcher.Core.csproj|d:\\project\\mirworld\\launcher\\launcher.core\\ini\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D3E2BA-F2E1-4325-9747-2E86493571CA}|Launcher.Core\\Launcher.Core.csproj|solutionrelative:launcher.core\\ini\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D3E2BA-F2E1-4325-9747-2E86493571CA}|Launcher.Core\\Launcher.Core.csproj|d:\\project\\mirworld\\launcher\\launcher.core\\encoding\\legacyencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D3E2BA-F2E1-4325-9747-2E86493571CA}|Launcher.Core\\Launcher.Core.csproj|solutionrelative:launcher.core\\encoding\\legacyencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.Configurator",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\Launcher.Configurator\\Launcher.Configurator.csproj",
+              "RelativeDocumentMoniker": "Launcher.Configurator\\Launcher.Configurator.csproj",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\Launcher.Configurator\\Launcher.Configurator.csproj",
+              "RelativeToolTip": "Launcher.Configurator\\Launcher.Configurator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T05:19:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Launcher",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\Launcher.csproj",
+              "RelativeDocumentMoniker": "Launcher.csproj",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\Launcher.csproj",
+              "RelativeToolTip": "Launcher.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T05:16:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConfigurator.cs",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\Launcher.Configurator\\FrmConfigurator.cs",
+              "RelativeDocumentMoniker": "Launcher.Configurator\\FrmConfigurator.cs",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\Launcher.Configurator\\FrmConfigurator.cs",
+              "RelativeToolTip": "Launcher.Configurator\\FrmConfigurator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:11:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegacyEncoding.cs",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\Launcher.Core\\Encoding\\LegacyEncoding.cs",
+              "RelativeDocumentMoniker": "Launcher.Core\\Encoding\\LegacyEncoding.cs",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\Launcher.Core\\Encoding\\LegacyEncoding.cs",
+              "RelativeToolTip": "Launcher.Core\\Encoding\\LegacyEncoding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:52:01.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IniFile.cs",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\Launcher.Core\\Ini\\IniFile.cs",
+              "RelativeDocumentMoniker": "Launcher.Core\\Ini\\IniFile.cs",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\Launcher.Core\\Ini\\IniFile.cs",
+              "RelativeToolTip": "Launcher.Core\\Ini\\IniFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:51:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\Project\\MirWorld\\Launcher\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "D:\\Project\\MirWorld\\Launcher\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:44:48.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

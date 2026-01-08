@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\frmgetbackpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:frmgetbackpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\gamepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:gamepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|f:\\dotnetgames\\mcptest\\mirworldserver_xlib2\\mirworld_csharp\\launcher\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D996C-4EBF-4580-A553-FBB05D3C46C1}|Launcher.csproj|solutionrelative:win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmChangePassword.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "FrmChangePassword.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmChangePassword.cs",
+              "RelativeToolTip": "FrmChangePassword.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:34:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGetBackPassword.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmGetBackPassword.cs",
+              "RelativeDocumentMoniker": "FrmGetBackPassword.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmGetBackPassword.cs",
+              "RelativeToolTip": "FrmGetBackPassword.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:34:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:33:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmNewAccount.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmNewAccount.cs",
+              "RelativeDocumentMoniker": "FrmNewAccount.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\FrmNewAccount.cs",
+              "RelativeToolTip": "FrmNewAccount.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:33:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamePatcher.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\GamePatcher.cs",
+              "RelativeDocumentMoniker": "GamePatcher.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\GamePatcher.cs",
+              "RelativeToolTip": "GamePatcher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:33:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:33:00.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Win32.cs",
+              "DocumentMoniker": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\Win32.cs",
+              "RelativeDocumentMoniker": "Win32.cs",
+              "ToolTip": "F:\\DotnetGames\\MCPTest\\MIRWORLDSERVER_xLib2\\MirWorld_CSharp\\Launcher\\Win32.cs",
+              "RelativeToolTip": "Win32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:32:53.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
